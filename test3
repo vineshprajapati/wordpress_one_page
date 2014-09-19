@@ -1,0 +1,13 @@
+<?php
+
+$a = array(
+			array(
+				1,2
+				),
+			array(
+				'a' => array(
+					'b' => 1,
+					'c')
+			);
+
+			?>
